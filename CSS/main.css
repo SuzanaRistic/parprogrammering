@@ -1,6 +1,13 @@
 .content {
     height: 800px;
 }
+.inside {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 20%;
+    padding-top: 20%;
+
+}
 
 .footer {
     background-color: rgb(231, 231, 231);
